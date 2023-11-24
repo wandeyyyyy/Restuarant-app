@@ -11,13 +11,19 @@
     font-size: 90px;
   
 }
-.app__wrapper-img img{
-    width: 80%;
-}
+
 .app__wrapper__info{
     width: 47%;
 }
 
-@media screen  and {
-    
+
+@media screen and (max-width: 1150px){
+    .app__wrapper__info{
+        width:  100%;
+    }  
+    .app__header-h1{
+        font-size: 70px;
+        line-height: 92px;
+    }
 }
+    
