@@ -52,7 +52,7 @@ transition: .5s ease-in;
    
 }
 .app__navbar-smallscreen__overlay{
-    position: fixed;
+  position: fixed;
     top: 0;
     left: 0;
     width: 100%;

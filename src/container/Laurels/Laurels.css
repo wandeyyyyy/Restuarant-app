@@ -27,11 +27,17 @@
 }
 .img_award{
     width: 100%;
+    margin-top: 3rem;
 }
 @media screen and (max-width: 1150px) {
     .app__laurels_awards-card img{
         width: 50px;
         height: 50px;
+
+    }
+    .img_award{
+        
+        margin-top: 3rem;
     }
 }
 @media screen and (min-width: 2000px) {
